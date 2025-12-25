@@ -17,10 +17,7 @@ Your role is to:
 Be helpful, concise, and encouraging. Use simple language.
 
 logo
-https://raw.githubusercontent.com/Cronin/bord.dev-test-agent/main/logo.png
-
-preview
-https://raw.githubusercontent.com/Cronin/bord.dev-test-agent/main/preview.png
+https://raw.githubusercontent.com/Cronin/bord.dev-test-agent/main/logo.svg
 
 category
 Agent
